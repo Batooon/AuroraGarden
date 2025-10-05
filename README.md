@@ -2,7 +2,7 @@
 
 Challenge: [Stellar Stories: Space Weather Through the Eyes of Earthlings](url)
 
-<img width="852" height="445" alt="00" src="https://github.com/user-attachments/assets/baf90164-c77b-4c3d-93a9-9d2bd391b2f5" />
+<img width="852" height="445" alt="00" src="https://github.com/user-attachments/assets/ed375f8a-c89d-49be-a7d5-5239549fab7f" />
 
 
 <details>
